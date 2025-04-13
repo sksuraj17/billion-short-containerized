@@ -1,5 +1,14 @@
 <h1 align="center">skimg/billion-short</h1>
 
+
+Containerized Wikipedia Clone using Chainguard Images <br /> <br />
+Chainguard Images used: 
+  
+1. cgr.dev/chainguard/node:latest-dev (build stage) <br />
+2. cgr.dev/chainguard/nginx:latest (production stage) <br />
+
+Dockerhub-repo -- https://hub.docker.com/r/skimg/billion-short/tags
+
 Checkout DockerHub repo -- https://hub.docker.com/r/skimg/billion-short/tags
 
 ![Screenshot 2025-04-13 192808](https://github.com/user-attachments/assets/c08376a5-ca69-414a-b74a-d2c65302e8e5)
