@@ -9,8 +9,6 @@ Chainguard Images used:
 
 Dockerhub-repo -- https://hub.docker.com/r/skimg/billion-short/tags
 
-Checkout DockerHub repo -- https://hub.docker.com/r/skimg/billion-short/tags
-
 ![Screenshot 2025-04-13 192808](https://github.com/user-attachments/assets/c08376a5-ca69-414a-b74a-d2c65302e8e5)
 
 <h3> Performed vulnerability scan using grype on skimg/billion-short:v1 image</h3>
